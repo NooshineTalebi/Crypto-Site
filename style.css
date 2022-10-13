@@ -1,0 +1,14 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    direction: rtl;
+}
+table{
+    margin: 0 auto;
+    background-color: #00154f;
+    color: white;
+    border-radius: 10px;
+}
+table tr td,th{
+    text-align: center;
+    padding: 0.8rem 4rem;
+}
